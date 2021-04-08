@@ -1,0 +1,109 @@
+.-------------------------.
+|        Comandos         |
+|-------------------------|
+|    Comando     | Status |
+|----------------|--------|
+| hug.js         | ❌  ->  |
+| pat.js         | ❌  ->  |
+| wallpaper.js   | ❌  ->  |
+| cat.js         | ❌  ->  |
+| confession.js  | ❌  ->  |
+| meme.js        | ❌  ->  |
+| wasted.js      | ❌  ->  |
+| admincheck.js  | ❌  ->  |
+| botinfo.js     | ✅      |
+| despedida.js   | ✅      |
+| help.js        | ✅      |
+| invite.js      | ✅      |
+| ping.js        | ✅      |
+| servericon.js  | ✅      |
+| serverinfo.js  | ❌  ->  |
+| userinfo.js    | ✅      |
+| addcommand.js  | ✅      |
+| ban.js         | ✅      |
+| delcmd.js      | ✅      |
+| hackban.js     | ❌  ->  |
+| kick.js        | ❌  ->  |
+| mute.js        | ❌  ->  |
+| prefix.js      | ✅      |
+| prune.js       | ✅      |
+| reset-warns.js | ✅      |
+| setbye.js      | ✅      |
+| setLogging.js  | ✅      |
+| setwelcome.js  | ✅      |
+| unban.js       | ❌  ->  |
+| unmute.js      | ❌  ->  |
+| warn.js        | ✅      |
+| warnings.js    | ✅      |
+| leave.js       | ✅      |
+| loop.js        | ✅      |
+| lyrics.js      | ❌  ->  |
+| np.js          | ✅      |
+| pausa.js       | ❌  ->  |
+| play.js        | ✅      |
+| queue.js       | ✅      |
+| resume.js      | ❌  ->  |
+| skip.js        | ✅      |
+| stop.js        | ❌  ->  |
+| stopor.js      | ❌  ->  |
+| volumen.js     | ❌  ->  |
+| ass.js         | ❌  ->  |
+| bdsm.js        | ❌  ->  |
+| blowjob.js     | ❌  ->  |
+| cum.js         | ✅      |
+| doujin.js      | ❌  ->  |
+| feet.js        | ❌  ->  |
+| fingering.js   | ❌  ->  |
+| gelbooru.js    | ❌  ->  |
+| glasses.js     | ❌  ->  |
+| hentai.js      | ❌  ->  |
+| hentaibomb.js  | ❌  ->  |
+| hgifs.js       | ❌  ->  |
+| nhentai.js     | ✅      |
+| nsfw.js        | ✅      |
+| panties.js     | ❌  ->  |
+| pussy.js       | ❌  ->  |
+| rule34.js      | ❌  ->  |
+| spamfoot.js    | ❌  ->  |
+| spampanties.js | ❌  ->  |
+| spampussy.js   | ❌  ->  |
+| suck.js        | ❌  ->  |
+| thighs.js      | ❌  ->  |
+| xbooru.js      | ❌  ->  |
+| ayuda.js       | ❌  ->  |
+| channellist.js | ❌  ->  |
+| downloadyt.js  | ❌  ->  |
+| eval.js        | ✅      |
+| k.js           | ✅      |
+| letras.js      | ❌  ->  |
+| ranktest.js    | ✅      |
+| status.js      | ✅      |
+| test.js        | ✅      |
+| insta.js       | ✅      |
+| spotify.js     | ❌  ->  |
+| youtube.js     | ❌  ->  |
+| avatar.js      | ✅      |
+| dm.js          | ❌  ->  |
+| level.js       | ✅      |
+| muteconfig.js  | ❌  ->  |
+| poll.js        | ❌  ->  |
+| role.js        | ❌  ->  |
+| say.js         | ✅      |
+| search.js      | ❌  ->  |
+| selfmute.js    | ❌  ->  |
+| suggest.js     | ✅      |
+'-------------------------'
+.------------------------------------.
+|              Eventos               |
+|------------------------------------|
+|       Eventos        | Load status |
+|----------------------|-------------|
+| guildCreate.js       | ✅           |
+| guildMemberAdd.js    | ✅           |
+| guildMemberRemove.js | ✅           |
+| message.js           | ✅           |
+| ready.js             | ✅           |
+'------------------------------------'
+Running Otis#8964 with -1 ping 
+ Bot ID: 767773155078832129 
+ Bot avatar: https://cdn.discordapp.com/avatars/767773155078832129/6cebda7e8bd953925db9c3c99cf1a96d.webp
